@@ -21,10 +21,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <br/>
 
-- 🌱 I’m currently learning ...Next JS
-  <br/>
-- 👯 I’m looking to collaborate with other content creators
-
 ** My Skills **
 <p>
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" height="40" style="vertical-align:down; margin:4px" alt="html">
@@ -35,3 +31,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRTfkei28uwg1prMgu6qbbxkx9y_5IFJN9g&s" height="40" style="vertical-align:down; margin:4px" alt="firebase">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="40" style="vertical-align:down; margin:4px" alt="MongoDB">
 </p>
+
+- 🌱 I’m currently learning ...Next JS
+- 👯 I’m looking to collaborate with other content creators
