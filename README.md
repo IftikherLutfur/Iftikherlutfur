@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm Iftikher Lutfur <a href="https://www.blackcater.win/" target="_blank"></a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
  
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<p>
+ <a href="https://www.x.com/mokkapps"><img src="https://i.ibb.co/QJJ7McT/images-7.png" height=25></a>
+ <a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+</p>
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...Next JS
