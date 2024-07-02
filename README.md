@@ -21,7 +21,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <br/>
 
-** My Skills **
+## My Skills
 <p>
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" height="40" style="vertical-align:down; margin:4px" alt="html">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" height="40" style="vertical-align:down; margin:4px" alt="CSS">
