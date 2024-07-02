@@ -10,7 +10,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  <a href="https://www.facebook.com/Iftikherlutfur"><img src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg" height=25></a>
 </p>
 <br/>
-<br/>
 
 ### Languages and Tools:
 
@@ -20,13 +19,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-
 <br/>
-<br/>
-Here are some ideas to get you started
-
 - 🌱 I’m currently learning ...Next JS
+- 👯 I’m looking to collaborate with other content creators
 
 ** My Skills **
 <p>
