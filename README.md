@@ -2,8 +2,8 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
  
 <p>
- <a href="https://www.x.com/mokkapps"><img src="https://i.ibb.co/QJJ7McT/images-7.png" height=25></a>
- <a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+ <a href="https://my-resume-ec1a4.web.app"><img src="https://i.ibb.co/QJJ7McT/images-7.png" height=25></a>
+ <a href="https://www.linkedin.com/in/iftikher-lutfur-094a41256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 Here are some ideas to get you started:
 
