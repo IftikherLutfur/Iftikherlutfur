@@ -20,7 +20,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <br/>
+
 - 🌱 I’m currently learning ...Next JS
+  <br/>
 - 👯 I’m looking to collaborate with other content creators
 
 ** My Skills **
