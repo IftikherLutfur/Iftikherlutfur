@@ -2,11 +2,6 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
  
 
-
-ABOUT ME:
-<a herf="[[https://my-resume-ec1a4.web.app/](https://my-resume-ec1a4.web.app/)](https://i.ibb.co/QJJ7McT/images-7.png)"><img src="[https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png](https://iconape.com/wp-content/files/zm/340553/svg/about-me-seeklogo.com.svg)" height="40" style="vertical-align:down; margin:4px">
-</a>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
