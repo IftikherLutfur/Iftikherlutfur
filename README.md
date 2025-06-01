@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Iftikher Lutfur <a href="https://www.blackcater.win/" target="_blank"></a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+src="https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/a26a0a103e0dec03d4685c67a870146d?_a=AQAEuj9" height="32" /></h1>
 
 <img src="https://i.ibb.co.com/wY8RWsJ/Screenshot-2348.png" alt="Mokkapps GitHub README header image">
 
