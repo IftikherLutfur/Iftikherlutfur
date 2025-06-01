@@ -33,7 +33,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="40" style="vertical-align:down; margin:4px" alt="MongoDB">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats-weld-rho.vercel.app?user=iftikher_lutfur&theme=dark)](https://git.io/streak-stats)
 
 - 🌱 I’m currently learning ...Next JS
 - 👯 I’m looking to collaborate with other content creators
+
+[![GitHub Streak](https://github-readme-streak-stats-weld-rho.vercel.app?user=iftikher_lutfur&theme=dark)](https://git.io/streak-stats)
