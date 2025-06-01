@@ -37,7 +37,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 --💻 I always try to build user-friendly websites
+
 --🧠 I focus on problem solving
+
 --🤝 I love working in a team (teamwork)
 
 [![GitHub Streak](https://github-readme-streak-stats-weld-rho.vercel.app?user=iftikher_lutfur&theme=dark)](https://git.io/streak-stats)
