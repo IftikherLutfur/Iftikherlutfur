@@ -29,6 +29,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2000px-Unofficial_JavaScript_logo_2.svg.png" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" style="vertical-align:down; margin:4px" alt="typesript">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp&w=256" height="40" style="vertical-align:down; margin:4px" alt="react js">
+<img src="https://images.icon-icons.com/2667/PNG/512/folder_node_js_icon_161287.png" height="40" style="vertical-align:down; margin:4px" alt="NodeJS">
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" style="vertical-align:down; margin:4px" alt="next.js">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRTfkei28uwg1prMgu6qbbxkx9y_5IFJN9g&s" height="40" style="vertical-align:down; margin:4px" alt="firebase">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="40" style="vertical-align:down; margin:4px" alt="MongoDB">
